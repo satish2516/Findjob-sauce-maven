@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60234" started-at="2014-09-02T16:37:01Z" finished-at="2014-09-02T16:38:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60234" started-at="2014-09-02T16:37:01Z" finished-at="2014-09-02T16:38:01Z">
+      <class name="com.adeptpros.selenium.Findjob.Findjoblogin">
+        <test-method status="PASS" signature="Saucetest()[pri:0, instance:com.adeptpros.selenium.Findjob.Findjoblogin@29b00e45]" name="Saucetest" duration-ms="59838" started-at="2014-09-02T22:07:01Z" finished-at="2014-09-02T22:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Saucetest -->
+        <test-method status="PASS" signature="killdriver()[pri:0, instance:com.adeptpros.selenium.Findjob.Findjoblogin@29b00e45]" name="killdriver" is-config="true" duration-ms="363" started-at="2014-09-02T22:08:01Z" finished-at="2014-09-02T22:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killdriver -->
+      </class> <!-- com.adeptpros.selenium.Findjob.Findjoblogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
