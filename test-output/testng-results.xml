@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="63274" started-at="2014-09-02T16:44:00Z" finished-at="2014-09-02T16:45:04Z">
+  <suite name="Default suite" duration-ms="88565" started-at="2014-09-02T17:34:14Z" finished-at="2014-09-02T17:35:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="63274" started-at="2014-09-02T16:44:00Z" finished-at="2014-09-02T16:45:04Z">
+    <test name="Default test" duration-ms="88565" started-at="2014-09-02T17:34:14Z" finished-at="2014-09-02T17:35:42Z">
       <class name="com.adeptpros.selenium.Findjob.Findjoblogin">
-        <test-method status="PASS" signature="Saucetest()[pri:0, instance:com.adeptpros.selenium.Findjob.Findjoblogin@51a30bb]" name="Saucetest" duration-ms="62189" started-at="2014-09-02T22:14:00Z" finished-at="2014-09-02T22:15:02Z">
+        <test-method status="PASS" signature="Saucetest()[pri:0, instance:com.adeptpros.selenium.Findjob.Findjoblogin@7a75479a]" name="Saucetest" duration-ms="88119" started-at="2014-09-02T23:04:14Z" finished-at="2014-09-02T23:05:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Saucetest -->
-        <test-method status="PASS" signature="killdriver()[pri:0, instance:com.adeptpros.selenium.Findjob.Findjoblogin@51a30bb]" name="killdriver" is-config="true" duration-ms="1061" started-at="2014-09-02T22:15:02Z" finished-at="2014-09-02T22:15:04Z">
+        <test-method status="PASS" signature="killdriver()[pri:0, instance:com.adeptpros.selenium.Findjob.Findjoblogin@7a75479a]" name="killdriver" is-config="true" duration-ms="420" started-at="2014-09-02T23:05:42Z" finished-at="2014-09-02T23:05:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- killdriver -->
